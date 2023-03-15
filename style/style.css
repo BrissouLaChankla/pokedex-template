@@ -1,0 +1,5 @@
+body {
+  background-blend-mode: soft-light, normal;
+  font-family: 'Open Sans', sans-serif;
+  transition: background 1s ease-in-out;
+}
