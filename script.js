@@ -1,5 +1,4 @@
-// https://pokeapi.co/api/v2/pokemon/1 👉 Va chercher le premier pokemon (Bulbasaur) et toutes ses infos
-// https://pokeapi.co/api/v2/pokemon/2 👉 Va chercher le dexuième pokemon (Ivysaur) et toutes ses infos...
+
 
 
 
